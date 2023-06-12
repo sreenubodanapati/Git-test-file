@@ -1,0 +1,6 @@
+fs module:
+= "readFileSync" Using for read file's in node js
+= "writeFileSync" using for write file's in node js
+
+
+
